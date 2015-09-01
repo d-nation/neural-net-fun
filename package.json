@@ -1,0 +1,9 @@
+{
+  "name": "neural-net-fun",
+  "version": "0.0.1",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "limdu": "^0.6.0",
+    "serialization": "^0.2.0"
+  }
+}
